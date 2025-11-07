@@ -353,7 +353,7 @@ const downloadImage = () => {
                           :key="style.value"
                           class="p-3 rounded-lg border text-sm transition-all"
                           :class="selectedStyle === style.value
-                            ? 'bg-purple-50 border-purple-300 text-purple-700 dark:bg-purple-900/20 dark:border-purple-700'
+                            ? 'bg-purple-50 border-purple-300 text-purple-700 dark:bg-purple-900/20 dark:border-purple-700 dark:text-purple-300'
                             : 'bg-white border-neutral-200 hover:border-purple-200 dark:bg-neutral-800 dark:border-neutral-700'"
                           @click="selectedStyle = style.value"
                         >
