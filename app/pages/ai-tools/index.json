@@ -1,0 +1,318 @@
+{
+  "en": {
+    "aiTools": {
+      "title": "Free AI Image & Video Generator",
+      "description": "Create stunning images and videos with AI. Text-to-image, image-to-image, headshots, logos, and more - all free and unlimited!",
+      "hero": {
+        "title": "Free AI Image & Video Generator",
+        "description": "Create stunning images and videos with AI. Text-to-image, image-to-image, headshots, logos, tattoos, and more - all free and unlimited!",
+        "features": {
+          "free": "100% Free",
+          "unlimited": "Unlimited Generations",
+          "noSignup": "No Signup Required"
+        }
+      },
+      "selectTool": "Select Tool",
+      "tools": {
+        "textToImage": {
+          "title": "Text to Image",
+          "description": "Generate images from text descriptions"
+        },
+        "imageToImage": {
+          "title": "Image to Image",
+          "description": "Transform images into different styles"
+        },
+        "headshot": {
+          "title": "AI Headshot",
+          "description": "Create professional headshots"
+        },
+        "logo": {
+          "title": "Logo Generator",
+          "description": "Design unique logos instantly"
+        },
+        "tattoo": {
+          "title": "Tattoo Design",
+          "description": "Generate custom tattoo art"
+        },
+        "backgroundRemover": {
+          "title": "Background Remover",
+          "description": "Remove image backgrounds"
+        }
+      },
+      "prompt": "Prompt",
+      "promptPlaceholder": "Describe the image you want to create... (e.g., 'A serene landscape with mountains and a lake at sunset')",
+      "style": "Style",
+      "styles": {
+        "realistic": "Realistic",
+        "anime": "Anime",
+        "digitalArt": "Digital Art",
+        "watercolor": "Watercolor",
+        "fantasy": "Fantasy",
+        "pixelArt": "Pixel Art"
+      },
+      "generate": "Generate Image",
+      "transform": "Transform Image",
+      "result": "Generated Result",
+      "download": "Download",
+      "uploadImage": "Upload Image",
+      "clickToUpload": "Click to upload or drag and drop",
+      "transformStyle": "Transform to Style",
+      "comingSoon": "This tool is coming soon!",
+      "whyChoose": {
+        "title": "Why Choose Our AI Tools?",
+        "description": "Experience the power of AI image generation without limitations",
+        "features": {
+          "unlimited": {
+            "title": "Unlimited Generations",
+            "description": "Create as many images as you want, completely free with no restrictions"
+          },
+          "noAccount": {
+            "title": "No Account Required",
+            "description": "Start creating immediately without signup or registration"
+          },
+          "fast": {
+            "title": "Lightning Fast",
+            "description": "Generate high-quality images in seconds with our optimized AI models"
+          }
+        }
+      }
+    }
+  },
+  "zh-CN": {
+    "aiTools": {
+      "title": "免费 AI 图像和视频生成器",
+      "description": "使用 AI 创建精美的图像和视频。文本生成图像、图像转换、头像、徽标等 - 全部免费且无限制!",
+      "hero": {
+        "title": "免费 AI 图像和视频生成器",
+        "description": "使用 AI 创建精美的图像和视频。文本生成图像、图像转换、头像、徽标、纹身等 - 全部免费且无限制!",
+        "features": {
+          "free": "完全免费",
+          "unlimited": "无限生成",
+          "noSignup": "无需注册"
+        }
+      },
+      "selectTool": "选择工具",
+      "tools": {
+        "textToImage": {
+          "title": "文本生成图像",
+          "description": "从文本描述生成图像"
+        },
+        "imageToImage": {
+          "title": "图像转换",
+          "description": "将图像转换为不同风格"
+        },
+        "headshot": {
+          "title": "AI 头像",
+          "description": "创建专业头像"
+        },
+        "logo": {
+          "title": "徽标生成器",
+          "description": "即时设计独特徽标"
+        },
+        "tattoo": {
+          "title": "纹身设计",
+          "description": "生成定制纹身艺术"
+        },
+        "backgroundRemover": {
+          "title": "背景去除",
+          "description": "去除图像背景"
+        }
+      },
+      "prompt": "提示词",
+      "promptPlaceholder": "描述您想创建的图像...（例如：'日落时分的宁静山水风景'）",
+      "style": "风格",
+      "styles": {
+        "realistic": "写实",
+        "anime": "动漫",
+        "digitalArt": "数字艺术",
+        "watercolor": "水彩",
+        "fantasy": "奇幻",
+        "pixelArt": "像素艺术"
+      },
+      "generate": "生成图像",
+      "transform": "转换图像",
+      "result": "生成结果",
+      "download": "下载",
+      "uploadImage": "上传图像",
+      "clickToUpload": "点击上传或拖放",
+      "transformStyle": "转换为风格",
+      "comingSoon": "此工具即将推出！",
+      "whyChoose": {
+        "title": "为什么选择我们的 AI 工具？",
+        "description": "体验无限制的 AI 图像生成能力",
+        "features": {
+          "unlimited": {
+            "title": "无限生成",
+            "description": "完全免费创建任意数量的图像，无任何限制"
+          },
+          "noAccount": {
+            "title": "无需账号",
+            "description": "无需注册或登录即可立即开始创作"
+          },
+          "fast": {
+            "title": "闪电般快速",
+            "description": "使用我们优化的 AI 模型在几秒钟内生成高质量图像"
+          }
+        }
+      }
+    }
+  },
+  "ja": {
+    "aiTools": {
+      "title": "無料 AI 画像＆動画ジェネレーター",
+      "description": "AI で美しい画像と動画を作成。テキストから画像、画像変換、ヘッドショット、ロゴなど - すべて無料で無制限！",
+      "hero": {
+        "title": "無料 AI 画像＆動画ジェネレーター",
+        "description": "AI で美しい画像と動画を作成。テキストから画像、画像変換、ヘッドショット、ロゴ、タトゥーなど - すべて無料で無制限！",
+        "features": {
+          "free": "完全無料",
+          "unlimited": "無制限生成",
+          "noSignup": "登録不要"
+        }
+      },
+      "selectTool": "ツールを選択",
+      "tools": {
+        "textToImage": {
+          "title": "テキストから画像",
+          "description": "テキストの説明から画像を生成"
+        },
+        "imageToImage": {
+          "title": "画像変換",
+          "description": "画像を別のスタイルに変換"
+        },
+        "headshot": {
+          "title": "AI ヘッドショット",
+          "description": "プロフェッショナルなヘッドショットを作成"
+        },
+        "logo": {
+          "title": "ロゴジェネレーター",
+          "description": "ユニークなロゴを即座にデザイン"
+        },
+        "tattoo": {
+          "title": "タトゥーデザイン",
+          "description": "カスタムタトゥーアートを生成"
+        },
+        "backgroundRemover": {
+          "title": "背景除去",
+          "description": "画像の背景を削除"
+        }
+      },
+      "prompt": "プロンプト",
+      "promptPlaceholder": "作成したい画像を説明してください...（例：「夕日の山と湖のある静かな風景」）",
+      "style": "スタイル",
+      "styles": {
+        "realistic": "リアル",
+        "anime": "アニメ",
+        "digitalArt": "デジタルアート",
+        "watercolor": "水彩",
+        "fantasy": "ファンタジー",
+        "pixelArt": "ドット絵"
+      },
+      "generate": "画像を生成",
+      "transform": "画像を変換",
+      "result": "生成結果",
+      "download": "ダウンロード",
+      "uploadImage": "画像をアップロード",
+      "clickToUpload": "クリックしてアップロードまたはドラッグ＆ドロップ",
+      "transformStyle": "スタイルに変換",
+      "comingSoon": "このツールは近日公開予定です！",
+      "whyChoose": {
+        "title": "なぜ当社の AI ツールを選ぶのか？",
+        "description": "制限なしで AI 画像生成の力を体験",
+        "features": {
+          "unlimited": {
+            "title": "無制限生成",
+            "description": "完全無料で制限なく好きなだけ画像を作成"
+          },
+          "noAccount": {
+            "title": "アカウント不要",
+            "description": "登録やサインアップなしですぐに作成開始"
+          },
+          "fast": {
+            "title": "超高速",
+            "description": "最適化された AI モデルで数秒で高品質画像を生成"
+          }
+        }
+      }
+    }
+  },
+  "fr": {
+    "aiTools": {
+      "title": "Générateur d'Images et Vidéos IA Gratuit",
+      "description": "Créez de superbes images et vidéos avec l'IA. Texte vers image, transformation d'image, portraits, logos et plus - tout gratuit et illimité !",
+      "hero": {
+        "title": "Générateur d'Images et Vidéos IA Gratuit",
+        "description": "Créez de superbes images et vidéos avec l'IA. Texte vers image, transformation d'image, portraits, logos, tatouages et plus - tout gratuit et illimité !",
+        "features": {
+          "free": "100% Gratuit",
+          "unlimited": "Générations Illimitées",
+          "noSignup": "Aucune Inscription Requise"
+        }
+      },
+      "selectTool": "Sélectionner l'Outil",
+      "tools": {
+        "textToImage": {
+          "title": "Texte vers Image",
+          "description": "Générer des images à partir de descriptions textuelles"
+        },
+        "imageToImage": {
+          "title": "Image vers Image",
+          "description": "Transformer des images en différents styles"
+        },
+        "headshot": {
+          "title": "Portrait IA",
+          "description": "Créer des portraits professionnels"
+        },
+        "logo": {
+          "title": "Générateur de Logo",
+          "description": "Concevoir des logos uniques instantanément"
+        },
+        "tattoo": {
+          "title": "Design de Tatouage",
+          "description": "Générer de l'art de tatouage personnalisé"
+        },
+        "backgroundRemover": {
+          "title": "Suppression d'Arrière-plan",
+          "description": "Supprimer les arrière-plans d'images"
+        }
+      },
+      "prompt": "Prompt",
+      "promptPlaceholder": "Décrivez l'image que vous voulez créer... (ex : 'Un paysage serein avec des montagnes et un lac au coucher du soleil')",
+      "style": "Style",
+      "styles": {
+        "realistic": "Réaliste",
+        "anime": "Anime",
+        "digitalArt": "Art Numérique",
+        "watercolor": "Aquarelle",
+        "fantasy": "Fantaisie",
+        "pixelArt": "Pixel Art"
+      },
+      "generate": "Générer l'Image",
+      "transform": "Transformer l'Image",
+      "result": "Résultat Généré",
+      "download": "Télécharger",
+      "uploadImage": "Télécharger une Image",
+      "clickToUpload": "Cliquez pour télécharger ou glissez-déposez",
+      "transformStyle": "Transformer en Style",
+      "comingSoon": "Cet outil arrive bientôt !",
+      "whyChoose": {
+        "title": "Pourquoi Choisir Nos Outils IA ?",
+        "description": "Découvrez la puissance de la génération d'images IA sans limitations",
+        "features": {
+          "unlimited": {
+            "title": "Générations Illimitées",
+            "description": "Créez autant d'images que vous le souhaitez, entièrement gratuit sans restrictions"
+          },
+          "noAccount": {
+            "title": "Aucun Compte Requis",
+            "description": "Commencez à créer immédiatement sans inscription ni enregistrement"
+          },
+          "fast": {
+            "title": "Ultra Rapide",
+            "description": "Générez des images de haute qualité en quelques secondes avec nos modèles IA optimisés"
+          }
+        }
+      }
+    }
+  }
+}

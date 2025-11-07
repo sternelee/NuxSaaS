@@ -7,6 +7,7 @@ const { t } = useI18n()
 const localePath = useLocalePath()
 
 const navigation = [
+  { label: t('global.nav.aiTools'), to: localePath('/ai-tools') },
   { label: t('global.nav.features'), to: localePath('/#features') },
   { label: t('global.nav.pricing'), to: localePath('/pricing') },
   { label: t('global.nav.docs'), to: 'https://docs.nuxsaas.com/', external: true }

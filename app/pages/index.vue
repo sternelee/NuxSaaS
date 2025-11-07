@@ -177,10 +177,19 @@ const activeScreenshot = ref('0')
             <p class="text-lg text-neutral-600 dark:text-neutral-400 mb-8">
               {{ t('home.slogan') }}
             </p>
-            <div class="flex gap-4 justify-center">
+            <div class="flex gap-4 justify-center flex-wrap">
+              <UButton
+                :to="localePath('/ai-tools')"
+                color="primary"
+                size="lg"
+                icon="i-lucide-wand-2"
+              >
+                Try AI Tools
+              </UButton>
               <UButton
                 :to="localePath('/signin')"
-                color="primary"
+                color="neutral"
+                variant="outline"
                 size="lg"
               >
                 {{ t('home.getStarted') }}
@@ -189,7 +198,7 @@ const activeScreenshot = ref('0')
                 :to="runtimeConfig.public.appRepo"
                 target="_blank"
                 color="neutral"
-                variant="outline"
+                variant="ghost"
                 size="lg"
                 icon="i-simple-icons-github"
               >
