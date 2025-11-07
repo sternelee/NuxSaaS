@@ -10,8 +10,6 @@ export default defineEventHandler(async (event) => {
     style = 'realistic',
     aspectRatio = 'square',
     numberOfImages = 1,
-    guidanceScale = 7.5,
-    steps = 30,
   } = body
 
   // Validate required fields
@@ -34,16 +32,6 @@ export default defineEventHandler(async (event) => {
     const replicate = new Replicate({
       auth: config.replicateApiToken,
     })
-
-    // Map aspect ratio to dimensions
-    const dimensionsMap: Record<string, { width: number, height: number }> = {
-      square: { width: 1024, height: 1024 },
-      landscape: { width: 1344, height: 768 },
-      portrait: { width: 768, height: 1344 },
-      wide: { width: 1536, height: 640 },
-    }
-
-    const dimensions = dimensionsMap[aspectRatio] || dimensionsMap.square
 
     // Enhance prompt based on style
     const stylePrompts: Record<string, string> = {
@@ -83,8 +71,6 @@ export default defineEventHandler(async (event) => {
         style,
         aspectRatio,
         numberOfImages,
-        guidanceScale,
-        steps,
       },
     }
   }
