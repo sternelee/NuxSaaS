@@ -1,0 +1,218 @@
+{
+  "en": {
+    "textToImage": {
+      "title": "AI Text to Image Generator",
+      "description": "Create stunning images from text descriptions using AI. Free, unlimited, and no signup required.",
+      "pageTitle": "Text to Image",
+      "pageDescription": "Generate high-quality images from your text prompts",
+      "prompt": "Prompt",
+      "promptPlaceholder": "Describe the image you want to create in detail... (e.g., 'A serene mountain landscape at sunset with a crystal clear lake')",
+      "negativePrompt": "Negative Prompt",
+      "negativePromptPlaceholder": "What you don't want in the image (e.g., 'blurry, low quality, watermark')",
+      "style": "Style",
+      "styles": {
+        "realistic": "Realistic",
+        "anime": "Anime",
+        "digitalArt": "Digital Art",
+        "watercolor": "Watercolor",
+        "oilPainting": "Oil Painting",
+        "sketch": "Sketch",
+        "pixelArt": "Pixel Art",
+        "cyberpunk": "Cyberpunk"
+      },
+      "settings": "Settings",
+      "aspectRatio": "Aspect Ratio",
+      "aspectRatios": {
+        "square": "Square",
+        "landscape": "Landscape",
+        "portrait": "Portrait",
+        "wide": "Wide"
+      },
+      "numberOfImages": "Number of Images",
+      "advancedSettings": "Advanced Settings",
+      "guidanceScale": "Guidance Scale",
+      "creative": "Creative",
+      "precise": "Precise",
+      "steps": "Steps",
+      "faster": "Faster",
+      "quality": "Quality",
+      "generate": "Generate Images",
+      "generating": "Generating your images...",
+      "generatingDescription": "This may take a few moments. Please wait.",
+      "noImages": "No images generated yet",
+      "noImagesDescription": "Enter a prompt and click 'Generate Images' to create your first AI-generated image",
+      "results": "Generated Images",
+      "download": "Download",
+      "downloadAll": "Download All",
+      "clear": "Clear",
+      "suggestions": {
+        "landscape": "A serene mountain landscape at sunset with a crystal clear lake reflecting the orange and pink sky",
+        "portrait": "Professional portrait of a person in business attire with soft lighting and blurred background",
+        "abstract": "Abstract geometric patterns with vibrant colors flowing in waves across the canvas",
+        "fantasy": "Fantasy castle floating in the clouds with dragons flying around, magical atmosphere"
+      }
+    }
+  },
+  "zh-CN": {
+    "textToImage": {
+      "title": "AI 文本生成图像",
+      "description": "使用 AI 从文本描述创建精美图像。免费、无限制且无需注册。",
+      "pageTitle": "文本生成图像",
+      "pageDescription": "从文本提示生成高质量图像",
+      "prompt": "提示词",
+      "promptPlaceholder": "详细描述您想创建的图像...（例如：'夕阳下的宁静山景，有清澈的湖泊'）",
+      "negativePrompt": "负面提示词",
+      "negativePromptPlaceholder": "您不想在图像中看到的内容（例如：'模糊、低质量、水印'）",
+      "style": "风格",
+      "styles": {
+        "realistic": "写实",
+        "anime": "动漫",
+        "digitalArt": "数字艺术",
+        "watercolor": "水彩",
+        "oilPainting": "油画",
+        "sketch": "素描",
+        "pixelArt": "像素艺术",
+        "cyberpunk": "赛博朋克"
+      },
+      "settings": "设置",
+      "aspectRatio": "长宽比",
+      "aspectRatios": {
+        "square": "正方形",
+        "landscape": "横向",
+        "portrait": "纵向",
+        "wide": "宽屏"
+      },
+      "numberOfImages": "图像数量",
+      "advancedSettings": "高级设置",
+      "guidanceScale": "引导强度",
+      "creative": "创意",
+      "precise": "精确",
+      "steps": "步数",
+      "faster": "更快",
+      "quality": "质量",
+      "generate": "生成图像",
+      "generating": "正在生成图像...",
+      "generatingDescription": "这可能需要几分钟。请稍候。",
+      "noImages": "尚未生成图像",
+      "noImagesDescription": "输入提示词并点击\"生成图像\"以创建您的第一张 AI 生成图像",
+      "results": "生成的图像",
+      "download": "下载",
+      "downloadAll": "全部下载",
+      "clear": "清除",
+      "suggestions": {
+        "landscape": "夕阳下的宁静山景，清澈的湖泊倒映着橙色和粉色的天空",
+        "portrait": "身着商务装的专业肖像，柔和的灯光和模糊的背景",
+        "abstract": "充满活力的抽象几何图案，色彩在画布上波浪般流动",
+        "fantasy": "漂浮在云端的奇幻城堡，巨龙在周围飞翔，神奇的氛围"
+      }
+    }
+  },
+  "ja": {
+    "textToImage": {
+      "title": "AI テキストから画像生成",
+      "description": "AI を使用してテキストの説明から美しい画像を作成。無料、無制限、登録不要。",
+      "pageTitle": "テキストから画像",
+      "pageDescription": "テキストプロンプトから高品質な画像を生成",
+      "prompt": "プロンプト",
+      "promptPlaceholder": "作成したい画像を詳しく説明してください...（例：\"夕日に照らされた静かな山の風景と透明な湖\"）",
+      "negativePrompt": "ネガティブプロンプト",
+      "negativePromptPlaceholder": "画像に含めたくないもの（例：\"ぼやけ、低品質、透かし\"）",
+      "style": "スタイル",
+      "styles": {
+        "realistic": "リアル",
+        "anime": "アニメ",
+        "digitalArt": "デジタルアート",
+        "watercolor": "水彩",
+        "oilPainting": "油絵",
+        "sketch": "スケッチ",
+        "pixelArt": "ドット絵",
+        "cyberpunk": "サイバーパンク"
+      },
+      "settings": "設定",
+      "aspectRatio": "アスペクト比",
+      "aspectRatios": {
+        "square": "正方形",
+        "landscape": "横長",
+        "portrait": "縦長",
+        "wide": "ワイド"
+      },
+      "numberOfImages": "画像数",
+      "advancedSettings": "詳細設定",
+      "guidanceScale": "ガイダンススケール",
+      "creative": "創造的",
+      "precise": "正確",
+      "steps": "ステップ数",
+      "faster": "速い",
+      "quality": "品質",
+      "generate": "画像を生成",
+      "generating": "画像を生成中...",
+      "generatingDescription": "数分かかる場合があります。お待ちください。",
+      "noImages": "まだ画像が生成されていません",
+      "noImagesDescription": "プロンプトを入力して\"画像を生成\"をクリックし、最初の AI 生成画像を作成してください",
+      "results": "生成された画像",
+      "download": "ダウンロード",
+      "downloadAll": "すべてダウンロード",
+      "clear": "クリア",
+      "suggestions": {
+        "landscape": "夕日に照らされた静かな山の風景と、オレンジとピンクの空を映す透明な湖",
+        "portrait": "ビジネススーツを着た人物のプロフェッショナルな肖像、柔らかな照明とぼかした背景",
+        "abstract": "鮮やかな色彩の抽象的な幾何学模様が、キャンバス上を波のように流れる",
+        "fantasy": "雲の中に浮かぶファンタジーの城、周りを飛び交うドラゴン、魔法のような雰囲気"
+      }
+    }
+  },
+  "fr": {
+    "textToImage": {
+      "title": "Générateur d'Images IA à partir de Texte",
+      "description": "Créez de superbes images à partir de descriptions textuelles avec l'IA. Gratuit, illimité et sans inscription.",
+      "pageTitle": "Texte vers Image",
+      "pageDescription": "Générez des images de haute qualité à partir de vos prompts textuels",
+      "prompt": "Prompt",
+      "promptPlaceholder": "Décrivez l'image que vous souhaitez créer en détail... (ex : 'Un paysage montagneux serein au coucher du soleil avec un lac cristallin')",
+      "negativePrompt": "Prompt Négatif",
+      "negativePromptPlaceholder": "Ce que vous ne voulez pas dans l'image (ex : 'flou, basse qualité, filigrane')",
+      "style": "Style",
+      "styles": {
+        "realistic": "Réaliste",
+        "anime": "Anime",
+        "digitalArt": "Art Numérique",
+        "watercolor": "Aquarelle",
+        "oilPainting": "Peinture à l'Huile",
+        "sketch": "Esquisse",
+        "pixelArt": "Pixel Art",
+        "cyberpunk": "Cyberpunk"
+      },
+      "settings": "Paramètres",
+      "aspectRatio": "Rapport d'Aspect",
+      "aspectRatios": {
+        "square": "Carré",
+        "landscape": "Paysage",
+        "portrait": "Portrait",
+        "wide": "Large"
+      },
+      "numberOfImages": "Nombre d'Images",
+      "advancedSettings": "Paramètres Avancés",
+      "guidanceScale": "Échelle de Guidage",
+      "creative": "Créatif",
+      "precise": "Précis",
+      "steps": "Étapes",
+      "faster": "Plus Rapide",
+      "quality": "Qualité",
+      "generate": "Générer les Images",
+      "generating": "Génération de vos images...",
+      "generatingDescription": "Cela peut prendre quelques instants. Veuillez patienter.",
+      "noImages": "Aucune image générée pour le moment",
+      "noImagesDescription": "Entrez un prompt et cliquez sur 'Générer les Images' pour créer votre première image générée par IA",
+      "results": "Images Générées",
+      "download": "Télécharger",
+      "downloadAll": "Tout Télécharger",
+      "clear": "Effacer",
+      "suggestions": {
+        "landscape": "Un paysage montagneux serein au coucher du soleil avec un lac cristallin reflétant le ciel orange et rose",
+        "portrait": "Portrait professionnel d'une personne en tenue d'affaires avec un éclairage doux et un arrière-plan flou",
+        "abstract": "Motifs géométriques abstraits aux couleurs vibrantes ondulant en vagues sur la toile",
+        "fantasy": "Château fantastique flottant dans les nuages avec des dragons volant autour, atmosphère magique"
+      }
+    }
+  }
+}

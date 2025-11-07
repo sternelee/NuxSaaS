@@ -26,6 +26,8 @@ export const generateRuntimeConfig = () => ({
   polarProductIdProYear: process.env.NUXT_POLAR_PRODUCT_ID_PRO_YEAR,
   // Resend
   resendApiKey: process.env.NUXT_RESEND_API_KEY,
+  // Replicate (AI Image Generation)
+  replicateApiToken: process.env.NUXT_REPLICATE_API_TOKEN,
   // Github
   githubClientId: process.env.NUXT_GH_CLIENT_ID,
   githubClientSecret: process.env.NUXT_GH_CLIENT_SECRET,
