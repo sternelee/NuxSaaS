@@ -95,12 +95,31 @@ const generateImage = async () => {
     return
 
   isGenerating.value = true
-  // Simulate AI generation (in real app, call AI API here)
-  await new Promise(resolve => setTimeout(resolve, 2000))
+  imageUrl.value = ''
 
-  // Use placeholder image for demo
-  imageUrl.value = `https://picsum.photos/seed/${Date.now()}/512/512`
-  isGenerating.value = false
+  try {
+    // Call the Replicate API through our server endpoint
+    const response = await $fetch('/api/ai/text-to-image', {
+      method: 'POST',
+      body: {
+        prompt: prompt.value,
+        style: selectedStyle.value,
+        aspectRatio: 'square',
+        numberOfImages: 1,
+      },
+    })
+
+    if (response.success && response.images && response.images.length > 0) {
+      imageUrl.value = response.images[0]
+    }
+  }
+  catch (error: any) {
+    console.error('Failed to generate image:', error)
+    alert(error.data?.message || 'Failed to generate image. Please try again.')
+  }
+  finally {
+    isGenerating.value = false
+  }
 }
 
 const downloadImage = () => {
