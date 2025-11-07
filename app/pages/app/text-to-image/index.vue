@@ -23,7 +23,6 @@ useSeoMeta({
 // State
 const prompt = ref('')
 const negativePrompt = ref('')
-const imageUrl = ref('')
 const isGenerating = ref(false)
 const generatedImages = ref<string[]>([])
 
@@ -103,7 +102,6 @@ const downloadAllImages = () => {
 
 const clearResults = () => {
   generatedImages.value = []
-  imageUrl.value = ''
 }
 </script>
 
